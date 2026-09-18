@@ -1,4 +1,4 @@
-Gerador-de-Cartelas-de-Bingo
+Gerador de  Cartelas de Bingo
 Exercício prático em linguagem C - Gerador de Cartelas de Bingo.
 #include <stdio.h>
 #include <stdlib.h>
